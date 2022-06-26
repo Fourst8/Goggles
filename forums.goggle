@@ -14,7 +14,7 @@ $discard
 /forums/$boost=9
 lemmy.ml$boost=9
 tildes.net$boost=9
-lobste.rs$boost=9
+lobste.rs$boost=10
 linuxquestions.org$boost=9
 myanimelist.net/forum$boost=9
 news.ycombinator.com$boost=8
