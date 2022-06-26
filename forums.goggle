@@ -4,18 +4,18 @@
 ! author: Flourst8
 
 $discard
-/t/$boost=10
-/d/$boost=10
-/f/$boost=10
-/community/viewforum.php$boost=9
-/forum/viewforum.php$boost=9
-/forum/index.php$boost=9
-/forum/$boost=9
-/forums/$boost=9
+/t/$boost=5
+/d/$boost=5
+/f/$boost=5
+/community/viewforum.php$boost=5
+/forum/viewforum.php$boost=5
+/forum/index.php$boost=5
+/forum/$boost=6
+/forums/$boost=5
 lemmy.ml$boost=9
 tildes.net$boost=9
 lobste.rs$boost=10
 linuxquestions.org$boost=9
 myanimelist.net/forum$boost=9
 news.ycombinator.com$boost=8
-reddit.com$downrank
+reddit.com$downrank=2
